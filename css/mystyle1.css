@@ -1,0 +1,152 @@
+@charset "utf-8";
+/* CSS Document */
+.nm{
+	
+	
+	background-color: #302e2e;
+}
+
+
+
+a{
+	
+	color: aliceblue;
+	
+	
+}
+a:hover{
+	
+	text-decoration: none;
+	color: crimson;
+}
+
+
+nav{
+	
+    padding: 20px;
+
+    
+    
+    
+}
+
+
+nav ul{
+     
+    
+    text-align: center;
+  
+    
+}
+
+
+
+
+
+
+	
+	
+	
+.op {
+    color: white;
+	float: left;
+    display: inline-block;
+	margin-top: 15px;
+	margin-left: 25px;
+    letter-spacing: 4px;
+
+}
+
+
+nav ul li {
+    
+    display: inline;
+    padding: 10px;
+    font-size:25px;
+    margin-right: 10px;
+    
+    
+    
+    
+    
+}
+
+
+
+nav ul li a{
+    
+    text-decoration-line: none;
+    color: white;
+    padding:15px;
+    font-size: 18px;
+    text-align: center;
+}
+
+
+
+img{
+	width: 100%;
+	
+	
+	
+}
+
+
+.x{
+	padding: 30px;
+	
+	
+}
+
+#about{
+	
+	
+	color: black;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+    
+    
+}
+
+#company{
+	
+	color: crimson;
+	text-align: center;
+	margin-top: 0px;
+	margin-right: 0px;
+	margin-bottom: 0px;
+	margin-left: 0px;
+	letter-spacing: 4px;
+	
+	
+}
+
+
+.frame3{
+	
+	background-color: crimson;
+	padding: 15px;
+	color: white;
+	font-size: 20px;
+	text-align: center;
+	margin: 0 auto;
+	
+
+	
+	
+	
+	
+	 
+	
+}
+
+.thumbnail{
+	
+	float: left;
+	padding: 10px;
+	margin: 0 auto;
+}
